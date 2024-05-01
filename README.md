@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sidhkocheta@gmail.com**
 
-- ⚡ Fun fact **I am a Cricketer**
+- ⚡ Fun fact **I am a Cricketer**🏏
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
