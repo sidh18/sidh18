@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ExpressJS, MERN Stack**
 
-- 💬 Ask me about **Flutter, Dart**
+- 💬 Ask me about **Flutter, Dart, Data Analysis**
 
 - 📫 How to reach me **sidhkocheta@gmail.com**
 
