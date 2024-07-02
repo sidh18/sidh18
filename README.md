@@ -1,6 +1,8 @@
 <h1 align="center">Hey!! 👋, I'm Siddharth Kocheta</h1>
 <h3 align="center">Here to learn, collaborate, and create.</h3>
 
+<img align="right" width=180px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidh18&label=Profile%20views&color=0e75b6&style=flat" alt="sidh18" /> </p>
 
 - 🔭 I’m currently working on **Android Development,Full-Stack Development Projects**
@@ -26,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidh18&show_icons=true&locale=en" alt="sidh18" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidh18&" alt="sidh18" /></p>
+
